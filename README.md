@@ -3,11 +3,11 @@
  El trabajo se en los enunciados propuesto por la materia.
 
 ## Miembros del Grupo:
-- Ernesto Rincon - eeng.rincon@gmail.com
-- Andrés Malvestiti - malvestitiandres@gmail.com
+- Ing. Ernesto Rincon - eeng.rincon@gmail.com
+- Ing. Andrés Malvestiti - malvestitiandres@gmail.com
 
 ## Estructura del Repositorio
-- `TP1/`: Contiene los assets y los archivos donde desarrollamos las respuestas.
+- `TP1/ | TP2/`: Contiene los assets y los archivos donde desarrollamos las respuestas.
 - `requirements.`txt: Dependencias y paquetes necesarios para replicar el entorno.
 
 ## Instrucciones para la Instalación y Ejecución

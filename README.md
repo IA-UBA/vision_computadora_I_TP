@@ -7,8 +7,9 @@
 - Ing. Andrés Malvestiti - malvestitiandres@gmail.com
 
 ## Estructura del Repositorio
-- `TP1/ | TP2/`: Contiene los assets y los archivos donde desarrollamos las respuestas.
+- `TP1/ | TP2/ | TP3/`: Contiene los assets y los archivos donde desarrollamos las respuestas.
 - `requirements.`txt: Dependencias y paquetes necesarios para replicar el entorno.
+- `TP3/TP3-avances`: Nueva version con el codigo corregido del TP3-
 
 ## Instrucciones para la Instalación y Ejecución
 
